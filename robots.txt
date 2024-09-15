@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://koeds.github.io/Ooe/sitemap.Ooe.gz
